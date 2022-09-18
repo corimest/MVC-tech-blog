@@ -8,3 +8,11 @@ A CMS-style blog site where developers can publish posts and comment on others' 
 AS A developer who writes about tech
 I WANT a CMS-style blog site
 SO THAT I can publish articles, blog posts, and my thoughts and opinions
+
+## Deployed App
+
+https://aqueous-retreat-89221.herokuapp.com/
+
+## Questions
+  - GitHub: [corimest](https://github.com/corimest)
+  - Email: [corimest@gmail.com](mailto:user@example.com)
